@@ -2,5 +2,5 @@
 // @todo add tests
 phpinfo();
 
-egco "aasass"
+echo "aasass";
 
